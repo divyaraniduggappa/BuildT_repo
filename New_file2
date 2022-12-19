@@ -1,1 +1,2 @@
 HI this is new file 2  created to git conflict
+this can be resolved by using git pull -rebase
